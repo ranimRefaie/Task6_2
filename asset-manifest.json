@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Task6_2.git/static/css/main.b3eb8080.css",
+    "main.js": "/Task6_2.git/static/js/main.ce14b910.js",
+    "static/js/787.759e47f1.chunk.js": "/Task6_2.git/static/js/787.759e47f1.chunk.js",
+    "static/media/phono-slider-1.webp": "/Task6_2.git/static/media/phono-slider-1.c048e9497d3ecd4b85fd.webp",
+    "static/media/phono-slider-3.jpg": "/Task6_2.git/static/media/phono-slider-3.9c29a67adabb61e0a55e.jpg",
+    "static/media/phono-slider-2.webp": "/Task6_2.git/static/media/phono-slider-2.79898d512f07a5b97432.webp",
+    "static/media/center-phone-img.webp": "/Task6_2.git/static/media/center-phone-img.8e0024e1cf15a68752e1.webp",
+    "static/media/tow-phone.webp": "/Task6_2.git/static/media/tow-phone.d8baef090db3931e73da.webp",
+    "static/media/phone-section.webp": "/Task6_2.git/static/media/phone-section.1a0331438c7cea3ba3e3.webp",
+    "static/media/background-section.webp": "/Task6_2.git/static/media/background-section.aa2616cafed1852dd7b6.webp",
+    "static/media/footer_bg.webp": "/Task6_2.git/static/media/footer_bg.aa2616cafed1852dd7b6.webp",
+    "static/media/3.webp": "/Task6_2.git/static/media/3.d3b4452bc9f2c6d99174.webp",
+    "static/media/logo-phono.webp": "/Task6_2.git/static/media/logo-phono.101da647f7bda8d73931.webp",
+    "static/media/card1.webp": "/Task6_2.git/static/media/card1.a04e5e08ec4bb142b74f.webp",
+    "static/media/2.webp": "/Task6_2.git/static/media/2.3f431a4711167787884f.webp",
+    "static/media/1.webp": "/Task6_2.git/static/media/1.1c4759ad3257d2ad8e5b.webp",
+    "static/media/card3.webp": "/Task6_2.git/static/media/card3.1bc660019fd413232d24.webp",
+    "static/media/shopping.webp": "/Task6_2.git/static/media/shopping.65833a6671e473f38a7a.webp",
+    "static/media/help.webp": "/Task6_2.git/static/media/help.8e625bfdd91134be7fb5.webp",
+    "static/media/THREADING-img.webp": "/Task6_2.git/static/media/THREADING-img.c56c0a8fbdfaa160d8cf.webp",
+    "static/media/Wifi.webp": "/Task6_2.git/static/media/Wifi.6285fc445a4dcd09daa1.webp",
+    "static/media/STYLISH-BEVEL-EDGES.webp": "/Task6_2.git/static/media/STYLISH-BEVEL-EDGES.ddbbfc225469cceb57de.webp",
+    "static/media/discount.webp": "/Task6_2.git/static/media/discount.561e7ff0ad4450b6bada.webp",
+    "static/media/HD-SURROUND-AUDIO.webp": "/Task6_2.git/static/media/HD-SURROUND-AUDIO.1f16c75d9b6e52b18836.webp",
+    "index.html": "/Task6_2.git/index.html",
+    "main.b3eb8080.css.map": "/Task6_2.git/static/css/main.b3eb8080.css.map",
+    "main.ce14b910.js.map": "/Task6_2.git/static/js/main.ce14b910.js.map",
+    "787.759e47f1.chunk.js.map": "/Task6_2.git/static/js/787.759e47f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3eb8080.css",
+    "static/js/main.ce14b910.js"
+  ]
+}
