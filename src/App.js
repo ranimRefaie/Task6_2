@@ -1,8 +1,14 @@
 import './App.css';
-import { Route, Routes } from 'react-router-dom';
+import { Route, Routes, createHashRouter } from 'react-router-dom';
 import Home from './Pages/Home/Home';
 import About from './Pages/About/About';
 function App() {
+//   const routes =createHashRouter([{
+//     children:[
+//       {path:'/' ,element:<Home/>},
+//       {path:'/about' ,element:<About/>}
+//     ]
+//  }])
   return (
     <>
     <Routes>
